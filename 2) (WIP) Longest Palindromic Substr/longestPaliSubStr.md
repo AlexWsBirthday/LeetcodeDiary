@@ -14,6 +14,8 @@ It looks like we first have to figure out:
 
 - **IF FALSE** - remove (unshift? )
 
+### run thru example:
+
 ## Data Structures
 
 ## Algorithm (Higher Level)
